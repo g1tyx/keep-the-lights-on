@@ -1,0 +1,9 @@
+{
+  "short_name": "Keep the Lights On",
+  "name": "Keep the Lights On",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
