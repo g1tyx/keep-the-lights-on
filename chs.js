@@ -151,7 +151,7 @@ var cnItems = {
     'Power the Town': '给小镇供电',
     'Import Data': '导入存档',
     'Power the State': '给州供电',
-    '': '',
+    'Hire basic sales people to increase the base price per watt to ': '雇用基本的销售人员将每瓦的基本价格提高到',
     '': '',
     '': '',
     '': '',
